@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authstringify",
+        "uuid": 11642298,
+        "checksum": "jhm5d"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
